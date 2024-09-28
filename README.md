@@ -1,4 +1,5 @@
-# ML_Assignment_Example
+# CCU
+# ML_Assignment_1
 
 ## 1. Loss Curve
 ![loss](PIC/loss_curve.png)
